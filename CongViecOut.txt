@@ -1,0 +1,23 @@
+Mã CV	Tên CV	Số người tối thiểu	Số người tối đa	Yc chủ nhiệm	Yc chuyên môn	Thứ	Tiết	Thời gian	Trọng số điểm	Người làm
+CV1	Công Việc A	1	2	0	Toán	2	2	2	GV4
+CV2	Công việc B	1	4	0	0	5	3	3	GV3,GV41,GV19,GV15
+CV3	Công việc C	1	1	10	0	6	8	1	GV36
+CV4	Công việc D	2	5	0	LS	6	9	1	GV35,GV34,GV33
+CV5	Công việc E	1	2	12	VL	6	8	1	GV14
+CV6	Công việc F	2	2	0	VH	6	8	2	GV32,GV30
+CV7 	Công việc G	2	5	0	0	2	4	1	GV48,GV44,GV27,GV23
+CV8	Công việc H	2	6	0	0	4	3	3	GV50,GV18,GV23,GV35,GV16
+CV9	Công việc I	1	1	0	0	3	5	1	GV42
+CV10	Công việc M	1	3	0	0	5	2	2	GV49,GV11
+CV11	Công việc L	3	8	0	0	3	3	2	GV23,GV42,GV9,GV12,GV16
+CV12	Công việc M	2	5	12	0	6	8	2	GV14,GV1,GV37
+CV13	Công việc N	3	7	0	0	3	2	3	GV21,GV37,GV15,GV32,GV18
+CV14	Công việc O	1	1	10	0	5	4	1	GV28
+CV15	Công việc P	1	3	10	VH	2	8	2	GV28,GV25
+CV16	Công việc Q	1	2	0	0	2	2	2	GV50
+CV17	Công việc I	1	3	0	TA	4	5	1	GV50,GV47
+CV18	Công việc S	1	2	0	0	3	3	2	GV18,GV44
+CV19	Công việc T	1	1	0	0	3	3	2	GV17
+CV20	Công việc U	1	1	0	0	2	9	1	GV21
+Phương sai ban đầu là : 20.15545
+Phương sai là : 5.2184596

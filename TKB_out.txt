@@ -1,0 +1,56 @@
+									Thứ 2									Thứ 3									Thứ 4									Thứ 5									Thứ 6
+Mã GV	Tên GV		Cmôn	CNhiệm	ĐiểmTL	1	2	3	4	5	6	7	8	9	1	2	3	4	5	6	7	8	9	1	2	3	4	5	6	7	8	9	1	2	3	4	5	6	7	8	9	1	2	3	4	5	6	7	8	9
+GV1	Tạ Thị Thanh Hương	Toán	12	35	12A1	x	12D1	x	x	x	x	12A1	x	10A2	x	10TOAN2	x	10TOAN2	x	x	x	x	x	x	x	x	x	12TOAN1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	12TOAN1	x	x	x	x	x	x	x	x	x	
+GV2	Ngô Thị Sinh	Toán	12	35	12D5	x	11D4	x	12A2	x	12D5	x	x	x	x	x	x	x	x	x	11D4	x	11A2	x	11A2	x	12A2	x	12TOAN4	x	12TOAN4	x	x	x	x	x	x	x	x	x	11TOAN4	x	x	x	x	x	x	x	x	x	12TOAN4	x	x	x	x	x	x	x	x	x	
+GV3	Hà Văn Thọ	Toán	11	33	11A1	x	11N1	x	10D3	x	11A1	x	11A1	x	10D3	x	10D3	x	x	x	x	x	x	x	x	x	11A1	x	x	x	x	x	x	x	x	x	11A1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV4	Nguyễn Minh Đức	Toán	0	33	x	Công Việc A	x	x	11A4	x	11A4	x	10A1	x	10A1	x	10TOAN1	x	10TOAN1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV5	Nguyễn T Thùy Ninh	Toán	12	27	12D3	x	x	x	11D2	x	11D2	x	12A4	x	12A4	x	12N1	x	12N1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11TOAN2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV6	Trần T Kiều Nga	Toán	12	30	12A3	x	x	11D3	x	11D3	x	12D4	x	12D4	x	12D4	x	x	x	x	x	x	x	x	x	11D1	x	12TOAN3	x	12TOAN3	x	x	x	x	x	x	x	x	x	11TOAN1	x	x	x	x	x	x	x	x	x	12TOAN3	x	x	x	x	x	x	x	x	x	
+GV7	Nguyễn Hải Thảo	Toán	0	21	x	x	x	10D4	x	10D4	x	x	x	10TOAN3	x	10TOAN3	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	CLB17	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV8	Lê Đức Tùng	Toán	11	32	11A3	x	12D2	x	x	x	12D2	x	10A4	x	x	x	x	x	x	x	x	x	10A4	x	10A4	x	12TOAN2	x	12TOAN2	x	x	x	x	x	x	x	x	x	11TOAN3	x	x	x	x	x	x	x	x	x	12TOAN2	x	x	x	x	x	x	x	x	x	
+GV9	Nguyễn Thị Hồng Hạnh	TH	0	28	x	12A3	x	12A3	x	12D1	x	12D1	x	x	x	10N1	x	10N1	x	x	x	x	x	x	x	x	x	11N1	x	x	x	x	x	x	x	x	x	CLB15	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV10	Nguyễn Minh ĐứcT	TH	0	22	x	10A2	x	10A2	x	10D2	x	10D2	x	12D5	x	12D5	x	CLB06	x	CLB06	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV11	Đỗ Ba Chín	TH	0	24	x	x	x	x	x	11A3	x	11A3	x	CLB07	x	CLB07	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV12	Nguyễn Trùng Khánh	TH	0	24	x	x	x	x	x	x	x	x	x	x	x	Công việc L	x	x	x	12A4	x	12A4	x	CLB12	x	CLB12	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV13	Trần Văn Huy	VL	10	25	10A1	x	x	10A4	x	10A1	x	10A1	x	x	x	11LY4	x	11LY4	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	CLB14	x	x	x	x	x	x	x	x	x	CLB14	x	x	x	x	x	x	x	x	x	
+GV14	Nguyễn Văn Vĩ	VL	12	31	12A4	x	12A1	x	12A4	x	x	x	11A4	x	11A4	x	11LY1	x	11LY1	x	x	x	x	x	x	x	x	x	CLB11	x	x	x	x	x	x	x	x	x	12LY1	x	x	x	x	x	x	x	x	x	CLB11	x	x	x	x	x	x	x	x	x	
+GV15	Đoàn Thu Huyền	VL	0	25	x	x	x	x	x	x	x	x	x	x	Công việc N	x	x	x	x	10A2	x	x	10LY2	x	10LY2	x	x	x	x	x	x	x	x	x	12LY4	x	x	x	x	x	x	x	x	x	CLB21	x	x	x	x	x	x	x	x	x	
+GV16	Đoàn Kiều Anh	VL	0	24	x	x	x	x	x	x	x	11LY2	x	11LY2	x	x	x	x	x	x	x	x	x	10LY1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV17	Hoàng Trung Thuấn	VL	0	25	x	x	x	10A3	x	10A3	x	x	x	CLB03	x	CLB03	x	x	x	x	x	x	x	x	x	CLB03	x	x	x	x	x	x	x	x	x	CLB03	x	x	x	x	x	x	x	x	x	CLB03	x	x	x	x	x	x	x	x	x	
+GV18	Dương Thế Hiển	VL	0	24	x	x	x	x	x	x	x	x	x	x	Công việc N	x	Công việc S	x	x	x	x	x	x	x	x	x	Công việc H	x	x	x	x	12A2	x	12LY2	x	12LY2	x	x	x	x	x	x	x	x	x	CLB18	x	x	x	x	x	x	x	x	x	
+GV19	Phạm Bảo Chi	VL	0	25	x	x	x	x	x	x	x	11LY3	x	11LY3	x	x	x	x	x	x	x	x	x	CLB13	x	x	x	x	x	x	x	x	x	CLB13	x	x	x	x	x	x	x	x	x	CLB13	x	x	x	x	x	x	x	x	x	
+GV20	Lê Thị Lan Anh	HH	12	24	12A2	x	11A5	x	11A5	x	x	12A2	x	10A3	x	10A3	x	x	x	x	x	x	x	x	x	10A1	x	12HOA2	x	12HOA2	x	x	x	x	x	x	x	x	x	11HOA2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV21	Đỗ Thị Thu Thủy	HH	10	36	10A2	x	x	x	12A1	x	12A1	x	x	x	x	Công việc U	x	x	x	x	x	x	x	x	x	12HOA1	x	x	x	x	x	x	x	x	x	11HOA1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV22	Hoàng Thị Liên	HH	10	22	10A4	x	10A4	x	x	11A2	x	x	12A3	x	12A3	x	x	x	x	x	x	x	x	x	12D2	x	10HOA1	x	10HOA1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV23	Lê Thị Quý	SH	0	34	x	x	x	Công việc G	x	x	12A2	x	12A2	x	12SINH1	x	12SINH1	x	x	x	x	x	x	x	x	x	10SINH01	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	10SINH05	x	x	x	x	x	x	x	x	x	
+GV24	Nguyễn T Yến Ngọc	SH	0	33	x	x	11D2	x	12N1	x	11A2	x	11A5	x	x	CLB09	x	CLB09	x	x	x	x	x	x	x	x	x	10SINH03	x	x	x	x	x	x	x	x	x	10SINH04	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV25	Lê T Hồng Hạnh	VH	10	39	10D4	x	12D5	x	12D5	x	10N1	x	10N1	x	11D2	x	11D2	x	Công việc P	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	12VAN1	x	12VAN1	x	x	x	x	x	x	x	x	x	
+GV26	Dương T Mai Hương	VH	11	36	11D4	x	10D3	x	12D1	x	x	11D4	x	12D1	x	12D1	x	10VAN2	x	10VAN2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV27	Lưu Thị Mai Hoa	VH	10	23	10A3	x	11A4	x	11A4	x	Công việc G	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11A4	x	x	x	x	x	x	x	x	x	x	x	10A3	x	10A3	x	
+GV28	Nguyễn Kim Anh	VH	10	31	10D1	x	12N1	x	x	x	x	11D1	x	11D1	x	Công việc P	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	CLB16	x	CLB16	x	x	x	x	x	x	x	x	x	12N1	x	x	x	x	x	x	x	x	x	
+GV29	Trịnh T Kim Dung	VH	12	26	12D2	x	x	x	x	x	10D2	x	10D2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	10D2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	12D2	x	
+GV30	Lê Thị Phương	VH	11	36	11D3	x	x	12A1	x	12A3	x	12A3	x	11D3	x	12A1	x	10VAN1	x	10VAN1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11N1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV31	Nguyễn Thu Hồng	VH	0	23	x	11A2	x	11A2	x	11A3	x	11A3	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11A2	x	12D4	x	12D4	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV32	Nguyễn Ngọc Trâm	VH	0	26	x	10A1	x	x	10A4	x	10A4	x	x	x	x	x	x	x	x	x	10A1	x	10A1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	CLB20	x	CLB20	x	x	x	x	x	x	x	x	x	
+GV33	Tạ Thị Ngọc Tú	LS	11	37	11N1	x	10D1	x	11D4	x	11D4	x	x	11N1	x	11N1	x	12SU1	x	12SU1	x	x	x	x	x	x	x	x	x	11SU2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	Công việc D	x	
+GV34	Nguyễn T Như Hoa	LS	11	35	11D1	x	12A4	x	10N1	x	12D4	x	x	12N1	x	12N1	x	12SU2	x	12SU2	x	x	x	x	x	x	x	x	x	11SU1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	Công việc D	x	
+GV35	Bùi Thị Phượng	LS	11	25	11A2	x	x	11A1	x	11A5	x	11D3	x	x	x	x	x	x	x	x	x	11D3	x	10D4	x	10D4	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11A2	x	x	Công việc D	x	
+GV36	Nguyễn Thị Tuyết	DL	10	32	10D3	x	x	10D4	x	12A2	x	12D3	x	x	12D3	x	x	x	x	x	x	x	x	x	10N1	x	x	x	x	x	x	x	x	x	10D4	x	12DIA1	x	12DIA1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV37	Hà Thị Duyên	DL	12	34	12D4	x	12D4	x	12D4	x	x	12N1	x	x	x	x	x	x	x	x	x	x	11D1	x	11A3	x	10DIA1	x	10DIA1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV38	Nguyễn T. Châu Loan	DL	10	31	10D2	x	10D2	x	10D1	x	10D1	x	x	x	11A5	x	11DIA1	x	11DIA1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV39	Trần T Thu Hương	GDCD	0	29	x	10D4	x	10D2	x	12D3	x	x	x	11D3	x	CLB01	x	CLB01	x	x	x	x	x	x	x	x	x	10KTPL1	x	x	x	x	x	x	x	x	x	CLB01	x	x	x	x	x	x	x	x	x	CLB01	x	x	x	x	x	x	x	x	x	
+GV40	Nguyễn T Kim Liên	TA	12	28	12D1	x	11A3	x	11A3	x	x	x	11D4	x	11D4	x	x	x	x	x	x	x	x	x	12D4	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	12D1	x	
+GV41	Đinh Đại Ngọc	TA	0	24	x	x	x	11D1	x	11D1	x	10D4	x	10D4	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11D1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV42	Trần Ngọc Lân	TA	0	25	x	x	x	x	x	x	x	x	x	x	x	Công việc L	x	x	x	x	x	x	x	x	x	10A1	x	10A1	x	x	x	x	x	x	x	x	x	12A1	x	x	x	x	x	x	x	x	x	12A1	x	12A1	x	
+GV43	Lê T Hồng Vân	TA	11	29	11A4	x	12A2	x	x	x	10D1	x	10D1	x	10D1	x	x	x	x	x	x	x	x	x	12A3	x	x	x	x	x	x	x	x	x	12A3	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11A4	x	
+GV44	Nguyễn T Thu Hải	TA	11	24	11A5	x	11D3	x	x	Công việc G	x	11A5	x	x	x	x	x	x	x	x	x	11A5	x	11D3	x	11D3	x	x	x	x	x	x	x	x	x	11D3	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11A5	x	
+GV45	Võ Minh Hải	TA	0	32	x	11A1	x	11N1	x	12A4	x	12A4	x	11A2	x	11A2	x	CLB08	x	CLB08	x	x	x	x	x	x	x	x	x	CLB08	x	x	x	x	x	x	x	x	x	CLB08	x	x	x	x	x	x	x	x	x	CLB08	x	x	x	x	x	x	x	x	x	
+GV46	Nguyễn T Lan Anh	TA	11	30	11D2	x	11D2	x	12D2	x	12D2	x	12D5	x	12D3	x	x	x	x	x	x	x	x	x	12D5	x	12D5	x	x	x	x	x	x	x	x	x	12D5	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11D2	x	
+GV47	Nguyễn Hồng Ly	TA	10	29	10N1	x	10A3	x	10A3	x	10D3	x	10D3	x	10N1	x	10N1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	10A3	x	x	x	x	x	x	x	x	x	10D3	x	x	x	x	x	x	x	x	x	10N1	x	
+GV48	Trần Minh Thu	TA	0	26	x	x	x	Công việc G	x	x	10A2	x	10A4	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	10D2	x	x	x	x	x	x	x	x	x	
+GV49	Đoàn Thị Vân	TN	0	26	x	10N1	x	12N1	x	11N1	x	11N1	x	x	x	x	x	x	x	x	x	10N1	x	10N1	x	12N1	x	x	x	x	x	x	x	x	x	11N1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	
+GV50	Christian Noynay	TA2	0	33	x	Công việc Q	x	x	10A2	x	10A2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	Công việc I	x	10A1	x	10A1	x	x	x	x	x	x	x	x	x	10A3	x	10N1	x	10N1	x	x	x	x	x	x	x	x	x	
+GV51	Guy Austin	TA2	0	20	x	11D1	x	11D1	x	x	x	11A1	x	11A1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	11A3	x	x	x	x	x	x	x	x	x	11A5	x	x	x	x	x	x	x	x	x	
+GV52	Jonathan Tooze	TA2	0	20	x	12D3	x	12D3	x	x	x	12D2	x	12D2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	12A4	x	x	x	x	x	x	x	x	x	
+Phương sai ban đầu là : 20.15545
+Phương sai là : 5.2184596
